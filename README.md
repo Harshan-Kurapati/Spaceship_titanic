@@ -1,4 +1,3 @@
-Here’s a tailored README file for your GitHub repository based on the **Spaceship Titanic Survival Prediction** project:
 
 ---
 
@@ -162,4 +161,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to customize this README further based on your preferences or additional insights from your analysis!

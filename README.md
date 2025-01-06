@@ -12,7 +12,7 @@ This project demonstrates:
    - Handling missing values.
    - Encoding categorical variables and feature engineering.
    - Feature scaling and transformation.
-2. **Model Building**:
+2. **Model Building**: 
    - Implementing logistic regression from scratch.
    - Using Scikit-learn’s **DecisionTreeClassifier** and **RandomForestClassifier**.
 3. **Hyperparameter Tuning**:
